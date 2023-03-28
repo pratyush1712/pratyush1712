@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Checkout my GitHub Wrap [here](https://www.githubtrends.io/wrapped/pratyush1712)
+## Checkout my GitHub Wrap [here](https://www.githubtrends.io/wrapped/pratyush1712)
 <div display="flex" flex-direction="column">
   <img src="https://api.githubtrends.io/user/svg/pratyush1712/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark">  
   <img src = "https://api.githubtrends.io/user/svg/pratyush1712/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">

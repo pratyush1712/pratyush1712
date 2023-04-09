@@ -20,6 +20,6 @@
 
 ## Checkout my GitHub Wrap [here](https://www.githubtrends.io/wrapped/pratyush1712)
 <div display="flex" flex-direction="column">
-  <img src="https://api.githubtrends.io/user/svg/pratyush1712/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark">  
+  <img src="https://api.githubtrends.io/user/svg/pratyush1712/repos?time_range=one_year&loc_metric=changed&theme=dark">  
   <img src = "https://api.githubtrends.io/user/svg/pratyush1712/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
 </div>

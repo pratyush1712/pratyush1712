@@ -1,8 +1,12 @@
 # `Hi there!!`
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ps2245@cornell.edu)](mailto:me@pratyushsudhakar.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/pratyushsudhakar/)](https://www.linkedin.com/in/pratyushsudhakar/)
-![Personal Website](https://img.shields.io/badge/-Website-red?style=flat-square&color=%23FF8800&link=https%3A%2F%2Fpratyushsudhakar.com%2F)
-![Blogs Page](https://img.shields.io/badge/-Blogs-red?style=flat-square&color=%2#D1AB66&link=https%3A%2F%2Fprivate.pratyushsudhakar.com%2F)
+<a style="text-decoration:none;" href="pratyushsudhakar.com" target="_blank">
+  ![Personal Website](https://img.shields.io/badge/-Website-red?style=flat-square&color=%23FF8800&link=https%3A%2F%2Fpratyushsudhakar.com%2F)
+</a>
+<a style="text-decoration:none;" href="private.pratyushsudhakar.com" target="_blank">
+  ![Blogs](https://img.shields.io/badge/-Blogs-red?style=flat-square&color=%2#D1AB66&link=https%3A%2F%2Fprivate.pratyushsudhakar.com%2F)
+</a>
 
 - 👋 Hello! I'm Pratyush Sudhakar, currently pursuing computer science :computer: and mathematics :abacus: at Cornell University.
 

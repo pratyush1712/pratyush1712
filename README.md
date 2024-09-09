@@ -8,36 +8,7 @@
   ![Blogs](https://img.shields.io/badge/-Blogs-red?style=flat-square&color=%2#D1AB66&link=https%3A%2F%2Fprivate.pratyushsudhakar.com%2F)
 </a>
 
-- 👋 Hello! I'm Pratyush Sudhakar, currently pursuing computer science :computer: and mathematics :abacus: at Cornell University.
-
-- ⚡ Here's a snapshot of my ongoing roles:
-
-<table width="100vw">
-  <tr>
-    <th>Role</th>
-    <th>Organization</th>
-    <th>Role</th>
-    <th>Organization</th>
-  </tr>
-  <tr>
-    <td>Technical Product Manager</td>
-    <td><a href="https://www.cornelldti.org/">Cornell Design & Tech Initiative</a></td>
-    <td>Tech Lead</td>
-    <td><a href="https://perfectmatch.ai/">Cornell Perfect Match</a></td>
-  </tr>
-  <tr>
-    <td>Software Engineer</td>
-    <td><a href="https://rapstudy.com/">rapStudy</a></td>
-    <td>Vice-President and Web Developer</td>
-    <td><a href="https://cornellwushu.github.io/">Cornell Wushu Club</a></td>
-  </tr>
-  <tr>
-    <td>Data Science Engineer</td>
-    <td><a href="https://strategicplan.engineering.cornell.edu/community/innovation-entrepreneurship/">Cornell College of Engineering</a></td>
-    <td>Research Assistant</td>
-    <td><a href="https://business.cornell.edu/">Cornell SC Johnson College of Business</a></td>
-  </tr>
-</table>
+👋 Hello! I'm Pratyush Sudhakar, currently pursuing <ins>computer science</ins> :computer:, <ins>mathematics</ins> :abacus:, and <ins>psychology</ins> 🧠 at Cornell University.
 
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
